@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **chnthkksn@gmail.com**
 
+- 📫 My Telegram <a href="https://t.me/Its_chinth">**@its_chinth**</a>
+
 ### 💻 I Work and Learn With
 
 <p  align="center">
