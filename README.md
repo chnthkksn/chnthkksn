@@ -6,7 +6,7 @@
 
 - 📱 My Telegram <a href="https://t.me/Its_chinth" target="_blank" rel="noreferrer">**@its_chinth**</a>
 
-- 🌐 Portfolio Website <a href="www.itschinth.dev" target="_blank" rel="noreferrer" >itschinth.dev</a>
+- 🌐 Portfolio Website <a href="https://itschinth.dev" target="_blank" rel="noreferrer" >itschinth.dev</a>
 
 ### 💻 I Work and Learn With
 
