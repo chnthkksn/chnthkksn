@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chinthaka Kasun</h1>
 
-- 🌱 I’m currently learning **React JS & React Native**
+- 🌱 I’m currently learning **React JS , Node JS and React Native**
 
 - 📫 How to reach me **chnthkksn@gmail.com**
 
 - 📱 My Telegram <a href="https://t.me/Its_chinth">**@its_chinth**</a>
+
+- Portfolio Website <a href="https://t.me/Its_chinth">Itschinth.dev</a>
 
 ### 💻 I Work and Learn With
 
