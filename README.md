@@ -4,9 +4,9 @@
 
 - 📫 How to reach me **chnthkksn@gmail.com**
 
-- 📱 My Telegram <a href="https://t.me/Its_chinth" target="_blank">**@its_chinth**</a>
+- 📱 My Telegram <a href="https://t.me/Its_chinth" target="_blank" rel="noreferrer">**@its_chinth**</a>
 
-- 🌐 Portfolio Website <a href="itschinth.dev" target="_blank">Itschinth.dev</a>
+- 🌐 Portfolio Website <a href="itschinth.dev" target="_blank" rel="noreferrer" >Itschinth.dev</a>
 
 ### 💻 I Work and Learn With
 
